@@ -1,5 +1,5 @@
 # Fast iptable
-This is a bash file that executes tunnel commands automatically
+This is a bash file that executes tunnel commands automatically \n
 این اسکریپت میاد دستورات iptable رو براتون اتوماتیک انجام میده.
 
 # One Click run
